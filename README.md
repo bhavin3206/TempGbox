@@ -1,10 +1,9 @@
 <div align="center">
-
-<img src="https://tempgbox.net/og-image.jpg" alt="TempGBox — Free Disposable Temporary Email" width="100%">
-
-<h1>TempGBox — Free Disposable Temporary Email & Privacy Tools</h1>
-
+<img src="https://tempgbox.net/favicon.svg" alt="TempGBox Logo" width="72" height="72">
+<h1>TempGBox</h1>
+<p>Free Disposable Temporary Email & Privacy Tools</p>
 <p><strong>Instant temp mail. No registration. No spam. Just a clean inbox.</strong></p>
+
 
 [![Website](https://img.shields.io/badge/Website-tempgbox.net-blue?style=flat-square&logo=google-chrome)](https://tempgbox.net)
 [![Tools](https://img.shields.io/badge/Free%20Tools-30%2B-green?style=flat-square)](https://tempgbox.net/tools)
@@ -183,7 +182,40 @@ TempGBox is widely used in development and QA workflows:
 
 ---
 
-## 🌍 Temp Mail for India
+## 🤖 Temp Mail for AI Tools & Sign-Ups
+
+AI platforms are the #1 reason people need a disposable email in 2025.
+Every new AI tool wants your email — TempGBox lets you try them all
+without inbox pollution or being locked into drip campaigns forever.
+
+## 🌍 Temp Mail by Country
+
+### 🇺🇸 United States
+CCPA gives Americans the right to opt out of data selling — but 
+the easiest way to never be on the list in the first place is a 
+disposable email. TempGBox is the fastest way for US users to sign 
+up for services, claim free trials, and receive OTPs without feeding 
+data brokers.
+
+→ [Get your free US temp mail inbox](https://tempgbox.net)
+
+### 🇩🇪 Germany
+GDPR is the strictest data protection law in the world — and German 
+users know it. TempGBox requires zero personal data, stores nothing, 
+and gives German users a fully GDPR-compliant throwaway inbox for 
+any sign-up.
+
+→ [Temporäre E-Mail — kostenlos & anonym](https://tempgbox.net)
+
+### 🇳🇬 Nigeria
+Nigeria's growing tech scene means more app sign-ups, more OTP 
+verifications, and more spam. TempGBox works instantly on any 
+mobile browser — no app download, no data plan waste — perfect 
+for Nigerian users on Flutterwave, Paystack, and local platforms.
+
+→ [Free temp mail for Nigeria](https://tempgbox.net)
+
+### IN India
 
 India is one of TempGBox's biggest markets. OTP-heavy platforms (IRCTC, Paytm, Zomato, Swiggy) make throwaway inboxes essential.
 
